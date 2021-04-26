@@ -1,0 +1,1336 @@
+{
+  "messages": [
+    {
+      "msg": "message text here",
+      "ts": "this is the time stap",
+      "alias": "name",
+    },
+    {
+      "_id": "QZNScj4Kdkg2Q5qdq",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of April 19 (out Monday morning)\n*General*\n- Earnings townhall\n- Attended \"Operating 101 - Engineering Overview\" lunch and learn\n- Rahul Tech Listening Session\n\n*UX*\n- UX collaboration meeting x2\n- UX staff meeting\n\n*Intermodal dashboard*\n- Reviewed designs and user research strategy with stakeholders \nhttp://xdev.home.www.uprr.com/xusers/prototypes/igen500/intermodal/intermodal-dashboard/04162021/\n\n*Transportation Planning*\n- Compiled analytics from ChangeWire application\n- MREE application demo and interview (contextual inquiry)\n- Put together powerpoint of project overview\n\n*Power Verification*\n- Put previous research from power verification project into dovetail\n- Got up to speed with previous status of the project\n\n*Sales Research Project*\n- Dug through previous Genesis research to see if there was any applicable research\n- Setup meetings with marketing individuals to get feedback for project\n\n*Genesis*\nUI reviews\nhttps://home.www.uprr.com/jira/browse/MASPMG-4320\nhttps://home.www.uprr.com/jira/browse/MASPMG-4256\nhttps://home.www.uprr.com/jira/browse/MASPMG-3955\n\n*EASE*\n- Monthly leadership meeting",
+      "ts": "2021-04-26T15:49:33.274Z",
+      "alias": "Blake J Whittaker",
+      "u": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500",
+        "name": "Blake J Whittaker"
+      },
+      "_updatedAt": "2021-04-26T15:49:33.312Z",
+      "urls": [
+        {
+          "url": "http://xdev.home.www.uprr.com/xusers/prototypes/igen500/intermodal/intermodal-dashboard/04162021/"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4320"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4256"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3955"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "xXQe5ZaBkJKZvTPPv",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Week of April 19\n\n*Metrics Reporting System*\n• Meeting with Tim & Julie of MRS, along with Megan. Started talks about transition plan once I am off the team.\n• Went over changes to PIID Live View interface",
+      "ts": "2021-04-26T12:04:52.586Z",
+      "alias": "Jordan Charles Biniamow",
+      "u": {
+        "_id": "EDWc68L9tpfwWGrko",
+        "username": "igen365",
+        "name": "Jordan Charles Biniamow"
+      },
+      "_updatedAt": "2021-04-26T12:04:52.624Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "K2tD7KBCti2WpPvwW",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of April 19\n\n*UX4CX*\n- Scheduled several international intermodal interviews\n- Mapped out Theme analysis with @igen678 \n- Rescheduled last GM interview\n- Analysed Metalsa interview with @igen678 and @igem053 \n- Assisted with providing evidence for VoC JIRA tickets\n\n*Sales Research Project*\n- Kickoff and planning meetings\n\n*Recognition and Teambuilding Team*\n- Completed second draft of Recognition White Paper\n- Created Recognition QRG\n- Shared outline of QRG with Ash to help with ERG presentation\n- Submitted handbook to recognition team for feedback\n\n*Training*\n- Attended Jared Spool Lecture: Where Do New UX Managers Come From?\n- Obtained \"Jobs to be done\" e-book for potential book club\n\n*Administrative*\n- Data migration to new laptop\n- Balsamiq TPM issues (helping people find their licenses through OSS)\n- Attended Earnings Townhall\n\n*UX Team*\nAttended UX Collaboration meeting\nAttended UX Staff meeting\n\n*Account on the Web*\n- Provided design advice and standards\n\n*Web to Lead*\n- Assisted with finding appropriate UP logo",
+      "ts": "2021-04-23T21:06:39.224Z",
+      "alias": "Thomas I Bolster",
+      "u": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453",
+        "name": "Thomas I Bolster"
+      },
+      "_updatedAt": "2021-04-23T21:06:39.274Z",
+      "mentions": [
+        {
+          "_id": "KELfazn5mbooEjCuC",
+          "username": "igem053",
+          "name": "Melissa Wolowicz"
+        },
+        {
+          "_id": "846TKA8neYYxT6ARw",
+          "username": "igen678",
+          "name": "Ash Banaszek"
+        }
+      ],
+      "channels": []
+    },
+    {
+      "_id": "H7ZSjvesYLCWHuAnf",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of Apr 19-23\n\n*Remedy*\nRemedy DSM / MSM feature addition\n   https://wiki.www.uprr.com/confluence/display/itappdev/View+as+other+gang+and+Team+tickets+Users+filter\n\n*LPS*\nLPS design review with SME\nUpdates to design\n   https://wiki.www.uprr.com/confluence/display/itappdev/LPS+-+UX+Mocks\n\n*Signal Hub*\nField research planning\nUser research questions prep\n\n*MTM*\nFMT research session\nReviewed docs at wiki https://wiki.www.uprr.com/confluence/display/UX/Engineering\n\n*UX4CX*\nWork on Theme deliverable with Tom\nDovetail analysis for Metalsa with Tom, Melissa, and Daniel\nCollaboration\n\n*UX / JET*\nRecognition ppt prep for workshop\nOp 101 - Engr Overview training\nTownhall\n\n*ERG / D&I*\nBEN Networking committee meeting\n\n*Other*\nBuilding evacuation Friday morning",
+      "ts": "2021-04-23T21:05:25.347Z",
+      "alias": "Ash Banaszek",
+      "u": {
+        "_id": "846TKA8neYYxT6ARw",
+        "username": "igen678",
+        "name": "Ash Banaszek"
+      },
+      "_updatedAt": "2021-04-23T21:39:22.480Z",
+      "urls": [
+        {
+          "url": "https://wiki.www.uprr.com/confluence/display/itappdev/View+as+other+gang+and+Team+tickets+Users+filter"
+        },
+        {
+          "url": "https://wiki.www.uprr.com/confluence/display/itappdev/LPS+-+UX+Mocks"
+        },
+        {
+          "url": "https://wiki.www.uprr.com/confluence/display/UX/Engineering"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-23T21:39:22.475Z",
+      "editedBy": {
+        "_id": "846TKA8neYYxT6ARw",
+        "username": "igen678"
+      }
+    },
+    {
+      "_id": "PNNiQL6xRfHzsduFs",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of April 19 - 23\n*Project: UP Vision*\n_Tickets_\n- [PLUXUI-2314](https://home.www.uprr.com/jira/browse/PLUXUI-2314) Provide 3 more icon options for MOW gang visibility\n_Activities_\n- 5 Scrum meetings\n- 1 UP Vision Demo\n- 1 MOW gang visibility SideSheet/Dialog meeting with Miller\n- 1 Rocket Chat discussion on making \"Summary View\" Tab the default Tab on Train Details Side Sheet\n- Figure out previous time reported under wrong bucket\n\n*Project: UP Elements*\n- Sent UP Elements Survey Reminder to 1,231 recipients. Viewed by 901. Only 76 took survey :(\n- Input and Tag all Survey responses into Dovetail\n- Create Dovetail Insight with results analysis\n- Share with Megan/Cary\n- Send feedback to Dovetail on their charts getting cut-off\n\n*Project: DigiCrew*\n- Bottom Sheet / Overlay Target UX Collab Meeting\n- Create 7 DigiCrew History Icons for Ryan/Gerry\n\n*Project: UX4CX*\n- 1 Dovetail Tagging Meeting w/Tom/Ash/Daniel\n\n*Project: Side By Side*\n- Minimal work on design, [no time]\n\n*Icons Icons Icons*\n- Send New DigiCrew and Remedy Icons to Cary, to add to UP Elements library\n- Investigate New Icon Request for Product Icon\n\n*UX*\n- UX Mobile Squad Collab\n- UX Collaboration Meeting\n- 2 PK Candidate Meetings / Debriefs\n- UX Team Meeting [Discuss SVN]\n- Inquire about UX Guild members recognition\n\n*JET/IT/UP*\n- Operating 101 - Engineering Overview \n- Employee Town Hall\n\n*Training/Personal Development*\n- Leaders of Awesomeness UX Webinar\n\n*Other*\n- Research how Rocket Chat API works in order to export our old channels and bring into Teams",
+      "ts": "2021-04-23T20:53:36.911Z",
+      "alias": "Melissa Wolowicz",
+      "u": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053",
+        "name": "Melissa Wolowicz"
+      },
+      "_updatedAt": "2021-04-23T20:53:36.957Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-2314)"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "hWWBsGcSBt9Fh8Jvz",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "*DigiCrew*\n• bottom sheet / menu target collab\n• side buttons meeting\n• pinch to zoom meeting \n• feedback component enhancement meeting\n*Mobile Terminal*\n• sprint refinement/retro/kickoff\n• empty work list meeting\n• general user feedback on Zebra (they have the wrong device for getting rid of paper)\n• user interviews into Dovetail\n• discuss *Work list: create* workflow/training issues with Heather\n*Class Planner*\n• sprint refinement/retro/kickoff\n*UX*\n• Mobile Squad meeting\n• team meeting \n*Tie Up*\n• HDC meeting to talk final train activity :partying_face: \n• talk about relieved time restriction lift with Tim Raak\n• prep for meeting with Rita about backend changes and side effects\n*Bowl Planner*\n• Jepson meeting\n• drafting mass email with Jepson and Evan",
+      "ts": "2021-04-23T20:46:42.563Z",
+      "alias": "Ryan M Horn",
+      "u": {
+        "_id": "M58xo2mpiavg5Y88n",
+        "username": "ctct025",
+        "name": "Ryan M Horn"
+      },
+      "_updatedAt": "2021-04-23T20:46:42.612Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "jjYxwEBo3ydqrjcRr",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-19T17:34:21.112Z",
+      "msg": "",
+      "file": {
+        "_id": "LM6LbHgr9bshH6azw",
+        "name": "UX Research Proposals.docx",
+        "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "UX Research Proposals.docx",
+          "title_link": "/file-upload/LM6LbHgr9bshH6azw/UX%20Research%20Proposals.docx",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "tmid": "s8eQohaJDcf5jPQrr",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-04-19T17:34:21.153Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "JnGYzicATg9pCfpDZ",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-19T17:33:06.868Z",
+      "msg": "",
+      "file": {
+        "_id": "D7GC2Ect9SScBKFCW",
+        "name": "Project intake outline.ppt",
+        "type": "application/vnd.ms-powerpoint"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "Project intake outline.ppt",
+          "title_link": "/file-upload/D7GC2Ect9SScBKFCW/Project%20intake%20outline.ppt",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "tmid": "s8eQohaJDcf5jPQrr",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-04-19T17:33:06.904Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "s8eQohaJDcf5jPQrr",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Week of April 12\nProject estimates\nOffline UIs\nProject intake planning",
+      "ts": "2021-04-19T17:32:01.153Z",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-04-19T17:34:21.189Z",
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-19T17:32:17.001Z",
+      "editedBy": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163"
+      },
+      "urls": [],
+      "replies": [
+        "3DHcbBWo3v5AZzDZS"
+      ],
+      "tcount": 2,
+      "tlm": "2021-04-19T17:34:21.112Z"
+    },
+    {
+      "_id": "3LCvvWhjKrH439knf",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Week of April 12\n\n*Metrics Reporting System*\n• Went over stakeholder feedback on MRS mockup with Megan\n• Met with Tim & the MRS team to discuss the future of MRS w/ UX\n• Met with Julie, Tim, and the rest of the MRS team to discuss desired functionality from PIID Live View and requirements",
+      "ts": "2021-04-19T12:29:24.809Z",
+      "alias": "Jordan Charles Biniamow",
+      "u": {
+        "_id": "EDWc68L9tpfwWGrko",
+        "username": "igen365",
+        "name": "Jordan Charles Biniamow"
+      },
+      "_updatedAt": "2021-04-19T12:29:24.852Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "N8yvkyZL5b93PX6ki",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of Apr 12\n\n*Remedy*\nRemedy Phase 1 prioritization\n\n*LPS*\nLPS design meeting with SME\nInitial mocks creation\nInitial mocks design documentation\nhttps://wiki.www.uprr.com/confluence/display/itappdev/LPS+-+UX+Mocks\n\n*Signal Hub*\nField research planning\n\n*UX4CX*\nMS Lime interview 2x\nDovetail analysis\n\n*UX / JET*\nJET Teambuilding event planning meeting\nVenue / activity pricing\n\n*Other*\nOut sick Mon / Wed and part of Tuesday due to vaccine side effects",
+      "ts": "2021-04-16T22:53:04.761Z",
+      "alias": "Ash Banaszek",
+      "u": {
+        "_id": "846TKA8neYYxT6ARw",
+        "username": "igen678",
+        "name": "Ash Banaszek"
+      },
+      "_updatedAt": "2021-04-16T22:53:43.613Z",
+      "urls": [
+        {
+          "url": "https://wiki.www.uprr.com/confluence/display/itappdev/LPS+-+UX+Mocks"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-16T22:53:43.611Z",
+      "editedBy": {
+        "_id": "846TKA8neYYxT6ARw",
+        "username": "igen678"
+      }
+    },
+    {
+      "_id": "tPng8hPAuuMYnKd2T",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 4/12\n*General*\n- JET town hall\n\n*UX*\n- https://home.www.uprr.com/jira/browse/PLUXUI-1023\n- UX Collaboration Meeting\n- DigiCrew collab\n\n*Intermodal dashboard*\n- Project planning with BA/SME\n- Designed several iterations of dashboard for reviews next week\nhttp://xdev.home.www.uprr.com/xusers/prototypes/igen500/intermodal/intermodal-dashboard/04162021/\n\n*Terminal Planning*\n- Met with 4 SME's to gain understanding of the project\n- Reached out to teams to get documentation on software and workflow processes\n- Sat in and participated in a focus group session with users of Change Wire and Multi-rail systems\n\n*Genesis*\nUI reviews\nhttps://home.www.uprr.com/jira/browse/MASPMG-4278\nhttps://home.www.uprr.com/jira/browse/MASPMG-4276\nhttps://home.www.uprr.com/jira/browse/MASPMG-3972\nhttps://home.www.uprr.com/jira/browse/MASPMG-3965\nhttps://home.www.uprr.com/jira/browse/MASPMG-3935",
+      "ts": "2021-04-16T22:02:31.697Z",
+      "alias": "Blake J Whittaker",
+      "u": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500",
+        "name": "Blake J Whittaker"
+      },
+      "_updatedAt": "2021-04-16T22:02:31.767Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-1023"
+        },
+        {
+          "url": "http://xdev.home.www.uprr.com/xusers/prototypes/igen500/intermodal/intermodal-dashboard/04162021/"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4278"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4276"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3972"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3965"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3935"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "6ugMd2gK2HRp96sfY",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 4/12\n*Mobile Tie Up*\n- Continued participating in morning stand-ups\n- Refactored more of the front-end code\n- Discussion about Last Train Activity\n\n*Mobile Terminal*\n- Started participating in morning stand-ups\n- Story Refinement Meeting\n- Provided mockups for [TNTMMG-17555: Simultaneous Switching - 2 - More than 1 job per list - Update worklist complete process for picking direction](https://home.www.uprr.com/jira/browse/TNTMMG-17555)\n- Provided mockups for [TNTMMG-17556: Simultaneous Switching - 3 - More than 1 job per list - Update worklist complete/edit process for picking direction](https://home.www.uprr.com/jira/browse/TNTMMG-17556)\n- Provided mockups for [TNTMMG-17557: Simultaneous Switching - 1 - Multiple Leads/Directions - Update the Station Profile to support more than 2 classification leads and directions for all leads](https://home.www.uprr.com/jira/browse/TNTMMG-17557)\n\n*MyUPRR*\n- Provided mockups for [Intuitive Instruction-Selecting Customer Location(s) under LOA Access Authorizations](https://home.www.uprr.com/jira/browse/MYUPLF-1986)\n- Provided mockups for [Intuitive Instruction-Selecting Third Party Name(s) and Contact(s)](https://home.www.uprr.com/jira/browse/MYUPLF-1987)\n- Provided mockups for [Intuitive Instruction-Selecting Customer Location(s) under LOA Access Authorizations](https://home.www.uprr.com/jira/browse/MYUPLF-1988)\n- Provided mockups for [Intuitive Instruction- usability for 'Third Party Employees Authorized'](https://home.www.uprr.com/jira/browse/MYUPLF-3023)\n\n*UX*\n- UX Collaboration Meeting\n- UX Menu & Dropdown Fields Collab Meeting\n- UI Best Practices Meeting",
+      "ts": "2021-04-16T21:44:50.872Z",
+      "alias": "Christopher Ginn",
+      "u": {
+        "_id": "etkSTtiCzD2ZnBN8R",
+        "username": "xprl169",
+        "name": "Christopher Ginn"
+      },
+      "_updatedAt": "2021-04-16T21:44:50.919Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/TNTMMG-17555)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/TNTMMG-17556)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/TNTMMG-17557)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-1986)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-1987)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-1988)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-3023)"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "9TirDGngSySYL5Rnx",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of April 12 - 16\n[Mac Computer in the repair shop 🖥 for the  entire week - No response from UP IT on ability to remote into UP Mac]\n\n*Project: UP Vision*\n_Tickets_\n- [PLUXUI-2314](https://home.www.uprr.com/jira/browse/PLUXUI-2314) Provide 5 icon options for Maintenance Of Way (MOW) info in Vision\n- [PLUXUI-2339](https://home.www.uprr.com/jira/browse/PLUXUI-2339) Going through old ticket and trying to remember why design decisions where made, explaining to devs and trying to figure out what TBA means on design.\n_Activities_\n- 5 Scrum meetings\n- 1 Retrospective meeting\n- 1 Dev meeting on design for Grounding / Container level details\n- 1 Apprentice meeting on UX and feedback landing page UI\n- 1 Design meeting with Jessica on new search feature for filters\n- Suggestions for Miller on sending icon options to stakeholders\n- Provide design guidance on removing current FABs from vision, depending on current usage. Consider moving the 'refresh to default filters' button as well.\n- Provide design guidance on Notification Email look for new notifications \n\n*Project: DigiCrew*\n- Mobile menu AND dropdown field conventions UX Collab meeting\n- Helping Ben Kramer with ripple effect on lards.\n\n**Project: UX4CX*\n- Going over Spanish transcript and fixing miss-recorded words\n- Going over Spanish transcript and translating into English\n- 1 Debriefing meeting w/Tom & Daniel\n- Never thought this would affect my brain in such a way. I speak like Tarzan a bit now, in both languages :woman_facepalming_light_skin_tone: \n\n*Project: Side By Side*\n- Minimal work on design, due to Mac issues. Tried remoting into sister's Mac, very cumbersome.\n\n*Project: UP Elements*\n- UP Elements Survey - Only 68 responses so far\n- Evaluating re-sending a reminder?\n- Sharing current results with Cary\n\n*UX*\n- Project Assignment meeting\n- UX Collab\n\n*JET/IT*\n- JET Monthly Town Hall\n\n*Other*\n- Updates to UP PC Laptop & Microsoft Office 365 Pro Plus.\n\n:mega: Just picked up my Mac from Apple Store, all is good with the world again :sweat_smile:",
+      "ts": "2021-04-16T21:10:03.859Z",
+      "alias": "Melissa Wolowicz",
+      "u": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053",
+        "name": "Melissa Wolowicz"
+      },
+      "_updatedAt": "2021-04-16T21:13:21.036Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-2314"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-2339"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-16T21:13:21.033Z",
+      "editedBy": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053"
+      }
+    },
+    {
+      "_id": "zEGiekncAJg6LLmP5",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of April 12\n*UX4CX*\n- Scheduled, Conducted, and Analysed, All MS Lime interviews\n- Metalsa debrief\n\n*UX*\n- Participated in discussion on Dropdown/Context menus\n- Participated in collaboration session\n\n*SEA*\n- Brought hot issues to attention of Development team\n- Gave dovetail tutorial to business partner\n\n*Shipment Management*\n- Brought hot issues to attention of Development team\n\n*Gate Reservations*\n- Gave dovetail tutorial to business partner\n\n*Training*\n- Watched Jared Spool Webinar: Does Our Team Have the Right Skills to Support Our UX Strategy?\n\n*Recognition*\n- Hosted Recognition team meeting\n- Helped brainstorm and plan summer teambuilding event\n\n*Administrative*\n- COVID vaccine attestation\n- Attended JET townhall\n- One on One meeting with Terri",
+      "ts": "2021-04-16T20:59:00.619Z",
+      "alias": "Thomas I Bolster",
+      "u": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453",
+        "name": "Thomas I Bolster"
+      },
+      "_updatedAt": "2021-04-16T21:04:44.818Z",
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-16T21:04:44.814Z",
+      "editedBy": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453"
+      },
+      "urls": []
+    },
+    {
+      "_id": "xYXSrmudqFSARth58",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "*UX*\n• catch up on Dovetail research\n• Jared Spool classes\n*DigiCrew*\n• mobile [menus](https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/item-layouts/index.html#id=kkhaya&p=title_area_for_lists_tables_4-12-21&g=1) and [dropdowns](https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/dropdowns/index.html#id=jd9m6g&p=mocks_4-9-21) research/mockups\n• mobile menus and dropdowns UX/Elements collaboration\n• launcher retrospective\n• tech sharing meeting\n• offline mode meeting \n*UP*\n• JET townhall\n• set up Teams and new VPN\n*Tie Up*\n• lots of emails, Axure, meetings, video calls, and IMs around last train activity\n*Bowl Planner*\n• Terminal Jepson meeting",
+      "ts": "2021-04-16T20:03:27.679Z",
+      "alias": "Ryan M Horn",
+      "u": {
+        "_id": "M58xo2mpiavg5Y88n",
+        "username": "ctct025",
+        "name": "Ryan M Horn"
+      },
+      "_updatedAt": "2021-04-19T12:11:33.330Z",
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-19T12:11:33.325Z",
+      "editedBy": {
+        "_id": "M58xo2mpiavg5Y88n",
+        "username": "ctct025"
+      },
+      "urls": [
+        {
+          "url": "https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/item-layouts/index.html#id=kkhaya&p=title_area_for_lists_tables_4-12-21&g=1"
+        },
+        {
+          "url": "https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/dropdowns/index.html#id=jd9m6g&p=mocks_4-9-21"
+        }
+      ]
+    },
+    {
+      "_id": "BRGDqiFpqCSfX92fK",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of Apr 5\n\n:checkered_flag: _Major milestone accomplishment_ \n:tada: *Remedy \"Signal Tickets\" mobile MVP launched to production!* :tada:  \n\n*Remedy*\nRemedy forms - Out of Service Form\nRevisions to RailFlix demo for Remedy mobile \n> https://railflix.unionpacific.com/media/Signal+HQ+-+Mobile+++Desktop+tour/1_ix7vz02h\nRemedy Phase 1 development planning started\n\n*Signal Hub*\nKickoff planning\n\n*UX4CX*\nDebrief with FHR\nDovetail analysis\n\n*UX / JET*\nUX Guild planning meeting with Tom / Megan\n\n*D&I / ERGs / BRIDGES*\nBEN Networking meeting\nAttened ADL (Anti-Defamation League) presentation for AERO\nSpeechcraft Trainer for WR\n\n*Other*\nConnectaha presentation - A designers guide to development\nConnectaha conference attendee\nOut of office Tuesday for 14 hours of poll working",
+      "ts": "2021-04-13T16:11:59.275Z",
+      "alias": "Ash Banaszek",
+      "u": {
+        "_id": "846TKA8neYYxT6ARw",
+        "username": "igen678",
+        "name": "Ash Banaszek"
+      },
+      "_updatedAt": "2021-04-13T16:11:59.348Z",
+      "urls": [
+        {
+          "url": "https://railflix.unionpacific.com/media/Signal+HQ+-+Mobile+++Desktop+tour/1_ix7vz02h"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "asZHMLBgq74MoFy9T",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 4/5\n*Mobile Tie Up*\n- Continued participating in morning stand-ups\n- Refactored more of the front-end code\n- Several discussions about progress and concerns of current state of the app\n- Usability study with light duty conductor w/Megan\n- [Opened 20 more tickets under CMSDEV-6697: UX Findings](https://home.www.uprr.com/jira/browse/CMSDEV-6697)\n\n*Mobile Terminal*\n- Attended Sprint retrospective\n- Provided mockups for [TNTMMG-17316: CP Simultaneous Switching - Update to display lead on complete/edit view](https://home.www.uprr.com/jira/browse/TNTMMG-17316)\n- Provided mockups for [TNTMMG-17510: Work List Create Transition](https://home.www.uprr.com/jira/browse/TNTMMG-17510)\n- Provided mockups for [TNTMMG-17509: Work List Create Cars locked message](https://home.www.uprr.com/jira/browse/TNTMMG-17509)\n\n*MyUPRR*\n- Met w/Tami and Josh Saltz about:\n[Intuitive Instruction-Selecting Customer Location(s) under LOA Access Authorizations](https://home.www.uprr.com/jira/browse/MYUPLF-1986)\n[Intuitive Instruction-Selecting Third Party Name(s) and Contact(s)](https://home.www.uprr.com/jira/browse/MYUPLF-1987)\n[Intuitive Instruction-Selecting Customer Location(s) under LOA Access Authorizations](https://home.www.uprr.com/jira/browse/MYUPLF-1988)\n[Intuitive Instruction- usability for 'Third Party Employees Authorized'](https://home.www.uprr.com/jira/browse/MYUPLF-3023)\n\n*UX*\n- UX collaboration meeting\n- UX team meeting\n- UX scroll signifiers meeting",
+      "ts": "2021-04-12T14:52:15.133Z",
+      "alias": "Christopher Ginn",
+      "u": {
+        "_id": "etkSTtiCzD2ZnBN8R",
+        "username": "xprl169",
+        "name": "Christopher Ginn"
+      },
+      "_updatedAt": "2021-04-12T14:52:15.182Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/CMSDEV-6697)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/TNTMMG-17316)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/TNTMMG-17510)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/TNTMMG-17509)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-1986)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-1987)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-1988)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-3023)"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "WvG28GjFttufFtbbf",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "*General*\n- Team collaboration\n- Collaboration with Jo for metrics reporting\n- Tagged RadioConnect interview\n- EASE communication LSW\n- Operating 101 lunch time talk\n\n*UX*\n- https://home.www.uprr.com/jira/browse/PLUXUI-1023\n- UX Collaboration Meeting\n- UX Team Meeting\n- UX Scroll Signifiers Collab Meeting\n\n*Intermodal*\nGeneral\n- Discussed potential new projects \n\nIntermodal dashboard\n- Met with stakeholder, BA, and SME to gather knowledge of current system, intermodal OBI dashboards, currently completed work, project status and timeline, and previous user feedback\n- Completed initial designs for daily lifts widget\n\n*Terminal Planning*\n- Started research for iTP project.\n- Setup meetings for knowledge-sharing sessions with SMEs\n\nUP Single sign-on\n- Discussed UI enhancements with developer \n\n*Genesis*\n- Reviewed feedback from \n- UI reviews\nhttps://home.www.uprr.com/jira/browse/MASPMG-4177\nhttps://home.www.uprr.com/jira/browse/MASPMG-4107\nhttps://home.www.uprr.com/jira/browse/MASPMG-4276",
+      "ts": "2021-04-12T14:26:22.994Z",
+      "alias": "Blake J Whittaker",
+      "u": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500",
+        "name": "Blake J Whittaker"
+      },
+      "_updatedAt": "2021-04-12T14:26:23.297Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-1023"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4177"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4107"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4276"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "D2hR2ouxydksZ5pmR",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-12T14:02:31.253Z",
+      "msg": "",
+      "file": {
+        "_id": "9jRTWoWdz4ZgM5AMw",
+        "name": "UX estimate for sales project.doc",
+        "type": "application/msword"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "UX estimate for sales project.doc",
+          "title_link": "/file-upload/9jRTWoWdz4ZgM5AMw/UX%20estimate%20for%20sales%20project.doc",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "tmid": "qhX58jhm4Z5bAuRHf",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-04-12T14:02:31.305Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "qhX58jhm4Z5bAuRHf",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "*Week of April 5*\nTie up usability reviews with conductor\nProject estimates for research\nDigicrew status reqiurements\nVarious project planning mtgs and support",
+      "ts": "2021-04-12T14:01:35.136Z",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-04-12T14:02:31.356Z",
+      "mentions": [],
+      "channels": [],
+      "replies": [
+        "3DHcbBWo3v5AZzDZS"
+      ],
+      "tcount": 1,
+      "tlm": "2021-04-12T14:02:31.253Z"
+    },
+    {
+      "_id": "jQstkMFxy9yNjHjjG",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Week of April 5\n\n*Metrics Reporting System*\n• Met with MR stakeholders - Julie Federhofer & Tanmay - to discover more about common usage of the application\n• Iterated upon the MR design\n\n*UX*\n• Check-in with Terri",
+      "ts": "2021-04-12T13:08:08.069Z",
+      "alias": "Jordan Charles Biniamow",
+      "u": {
+        "_id": "EDWc68L9tpfwWGrko",
+        "username": "igen365",
+        "name": "Jordan Charles Biniamow"
+      },
+      "_updatedAt": "2021-04-12T13:08:08.100Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "dJ94PR5a2CFSghWgx",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "*Class Planner*\n • multi-job worklist design meeting\n*Tie Up*\n• user walk through\n• lots of conversations around differences between developed code vs design\n*UX*\n• Mobile squad meeting\n• team meeting\n*Bowl Planner*\n• education meetings with Evan\n• Jepson meeting talking through options for various approaches to the system\n• started gathering relevant locations to source for user interviews and future usability testing\n*DigiCrew*\n• [mockups](https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/item-layouts/index.html#g=1&id=kkhaya&p=title_area_for_lists_tables_4-9-21) for list/table headers, range selection, long menus (including *ACTIONS*)\n• history status meeting\n• [mockups](https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/dropdowns/index.html#g=1&id=jd9m6g&p=mocks_4-9-21) for dropdowns on mobile (still needs UX discussion)\n• scroll signifiers meeting (no CSS scrollbar for now; focusing on half-item in menus until we confirm from user feedback that scrolling visibility is a broader issue on Zebras)",
+      "ts": "2021-04-09T20:48:02.769Z",
+      "alias": "Ryan M Horn",
+      "u": {
+        "_id": "M58xo2mpiavg5Y88n",
+        "username": "ctct025",
+        "name": "Ryan M Horn"
+      },
+      "_updatedAt": "2021-04-09T20:49:22.735Z",
+      "urls": [
+        {
+          "url": "https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/item-layouts/index.html#g=1&id=kkhaya&p=title_area_for_lists_tables_4-9-21"
+        },
+        {
+          "url": "https://xdev.home.www.uprr.com/xusers/prototypes/ctct025/mobile-strategy/dropdowns/index.html#g=1&id=jd9m6g&p=mocks_4-9-21"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-09T20:49:22.733Z",
+      "editedBy": {
+        "_id": "M58xo2mpiavg5Y88n",
+        "username": "ctct025"
+      }
+    },
+    {
+      "_id": "XdtqRS3664aFwFmN3",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-09T20:41:56.812Z",
+      "msg": "",
+      "file": {
+        "_id": "Rnwy8zkBzYdR2sdQg",
+        "name": "UX Guild - Affinity Diagrams.pptx",
+        "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "UX Guild - Affinity Diagrams.pptx",
+          "title_link": "/file-upload/Rnwy8zkBzYdR2sdQg/UX%20Guild%20-%20Affinity%20Diagrams.pptx",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "alias": "Thomas I Bolster",
+      "u": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453",
+        "name": "Thomas I Bolster"
+      },
+      "_updatedAt": "2021-04-09T20:41:56.839Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "ALtu5Sx26iaMkBkKL",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 4/5-4/11\n\n*UX4CX*\n- Delivered Debrief presentation to FHR\n- Prepped Melissa for Spanish Language UX4CX session with Metalsa\n- Reached out to MS Lime and GM for interview schedules\n- Revised and updated  interview script based on previous interviews\n- Worked with ITR business owners to understand prioritized JIRA tickets based on UX4CX interviews\n\n*UX Guild*\n- Set up MIRO boards for hands on UX Guild activity\n- Created presentation to set up UX Guild activity (attached below)\n\n*Recognition and Teambuilding Team*\n- Began writing the Recognition Handbook whitepaper (first draft complete)\n\n*Administrative*\n- Signed up for DaI Docuseries\n- Updated my Achievements through March in Performance Management\n- Began backing up files to SVN for laptop upgrade process\n- Assisted with 2 contractor interviews\n- Attended UX team meeting\n- Attended UX collaboration session\n\n*Training*\n- Attended Jared Spool Webinar: The Mindset Shifts Your Stakeholders Need for Implementing UX Metrics",
+      "ts": "2021-04-09T20:32:09.301Z",
+      "alias": "Thomas I Bolster",
+      "u": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453",
+        "name": "Thomas I Bolster"
+      },
+      "_updatedAt": "2021-04-09T20:41:18.101Z",
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-09T20:41:18.098Z",
+      "editedBy": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453"
+      },
+      "urls": []
+    },
+    {
+      "_id": "ser7Yi9aje9iJeyn3",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-09T19:13:26.833Z",
+      "msg": "",
+      "file": {
+        "_id": "mt5SpYdpKbCEe8yAX",
+        "name": "image-2021-04-06-11-13-11-803.png",
+        "type": "image/png"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "image-2021-04-06-11-13-11-803.png",
+          "title_link": "/file-upload/mt5SpYdpKbCEe8yAX/image-2021-04-06-11-13-11-803.png",
+          "title_link_download": true,
+          "image_dimensions": {
+            "width": 889,
+            "height": 890
+          },
+          "image_preview": "/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABAIBAwUI/8QAJxAAAgIBAgQGAwAAAAAAAAAAAQIDEQAEIRITMVEVIiNBYaEycYH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwD0P4fHIqNYQAdAev3idNp4zY5SE/u85UC8mMkb13xaxpHHxximrreAR9EhAqFbyJNBHQ9MAd87CB2a+I3kc0lmViDhBkPoxb+3fHPtD/MCm8EdX09sSsoaMiiCMKyFyGq9j85I/M7/AHmxEBvMCfnJLBXJY0MsR//Z",
+          "image_url": "/file-upload/mt5SpYdpKbCEe8yAX/image-2021-04-06-11-13-11-803.png",
+          "image_type": "image/png",
+          "image_size": 68860,
+          "type": "file"
+        }
+      ],
+      "tmid": "eCq6SyzcXZ9KnaFhw",
+      "alias": "Melissa Wolowicz",
+      "u": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053",
+        "name": "Melissa Wolowicz"
+      },
+      "_updatedAt": "2021-04-09T19:13:26.879Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "mxvrZHQccpEPLuruv",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-09T19:12:16.327Z",
+      "msg": "",
+      "file": {
+        "_id": "9j9Cs4MMEhRbJQLrQ",
+        "name": "73 - Contacts in Train Details Side Sheet.pdf",
+        "type": "application/pdf"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "73 - Contacts in Train Details Side Sheet.pdf",
+          "title_link": "/file-upload/9j9Cs4MMEhRbJQLrQ/73%20-%20Contacts%20in%20Train%20Details%20Side%20Sheet.pdf",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "tmid": "eCq6SyzcXZ9KnaFhw",
+      "alias": "Melissa Wolowicz",
+      "u": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053",
+        "name": "Melissa Wolowicz"
+      },
+      "_updatedAt": "2021-04-09T19:12:16.363Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "eCq6SyzcXZ9KnaFhw",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of April 05 - 09\n*Project: UP Vision*\n_Tickets_\n- [PLUXUI-1732](https://home.www.uprr.com/jira/browse/PLUXUI-1732) Provided new design for 'contacts' in Train Details Side Sheet\n- [PLUXUI-2339](https://home.www.uprr.com/jira/browse/PLUXUI-2339) Quick meeting w/Dean to explain design\n_Activities_\n- 4 Scrum meetings\n- 1 PowerPoint presentation meeting with John Miller\n\n*Project: UX4CX*\n- Prep for Metalsa User Interview\n- Learning Focus Group Best Practices from Gerry (Thanks Gerry)\n- Metalsa Spanish Interview\n- Translate Notes and Transcript from Spanish to English\n\n*Project: Side By Side*\n- Continues work on prototypes/mock-ups\n\n*Project: UP Elements*\n- Finally sent out UP Elements Survey to 800+ UP Employees and 400+ UP/PK Contractors (all developers)\n- Only 66 responses so far :disappointed: \n- Still missing other contractors distribution list\n\n*Icons-Icons-Icons*\n- Provide image design (not technically an icon) to Ash / Remedy\n\n*UX*\n- Type up 10 TE&Y hand-written responses to the Zebra Mobile Device Questionnaire for Megan in Dovetail\n- Providing tons of feedback to Dovetail (Brian)\n- UX ProKarma Candidate Interviews x2 + pre- & debrief meetings\n- UX Mobile Squad Collab Meeting\n- UX Team Meeting\n- UX Collab Meeting\n\n*JET/IT*\n- Operating 101 - Lunch Time Talks\n\n*Other*\n- Mac Issues\n- Reaching out to Shawn Elliot for possibility of remoting into UPC Mac",
+      "ts": "2021-04-09T19:11:49.394Z",
+      "alias": "Melissa Wolowicz",
+      "u": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053",
+        "name": "Melissa Wolowicz"
+      },
+      "_updatedAt": "2021-04-09T19:15:19.696Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-1732"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-2339"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "replies": [
+        "KELfazn5mbooEjCuC"
+      ],
+      "tcount": 2,
+      "tlm": "2021-04-09T19:13:26.833Z",
+      "editedAt": "2021-04-09T19:15:19.694Z",
+      "editedBy": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053"
+      }
+    },
+    {
+      "_id": "ezeM9njHdKCQmPZjj",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-05T16:27:54.222Z",
+      "msg": "",
+      "file": {
+        "_id": "wToc79MKS23mSccqA",
+        "name": "upc55555-001.pdf",
+        "type": "application/pdf"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "upc55555-001.pdf",
+          "title_link": "/file-upload/wToc79MKS23mSccqA/upc55555-001.pdf",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "tmid": "yRixfSafsskbKPJ7z",
+      "alias": "Blake J Whittaker",
+      "u": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500",
+        "name": "Blake J Whittaker"
+      },
+      "_updatedAt": "2021-04-05T16:27:54.254Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "fiNBiKXf5vgQhJNtg",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-05T16:27:53.806Z",
+      "msg": "",
+      "file": {
+        "_id": "7tnRh3a3WkndDu7PT",
+        "name": "UP-C-53054-4.pdf",
+        "type": "application/pdf"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "UP-C-53054-4.pdf",
+          "title_link": "/file-upload/7tnRh3a3WkndDu7PT/UP-C-53054-4.pdf",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "tmid": "yRixfSafsskbKPJ7z",
+      "alias": "Blake J Whittaker",
+      "u": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500",
+        "name": "Blake J Whittaker"
+      },
+      "_updatedAt": "2021-04-05T16:27:53.839Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "yRixfSafsskbKPJ7z",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 3/29 \n*General*\n- Testing out Teams Light\n- Teams Light Demo/Feedback\n\n*UX*\n- https://home.www.uprr.com/jira/browse/PLUXUI-1023\n- UX Collaboration Meeting\n- UX Team Meeting\n- UX Scroll Signifiers Collab Meeting\n\n*Intermodal*\nIntermodal Vision\n- Tagged information in Dovetail from Zach Russel interview\n\n*Radio Connect*\n- Tagged 8 Radio Connect user interviews in Dovetail\n\n*UP Single sign-on*\n- Added enhancements to the login page backlog\nhttps://home.www.uprr.com/jira/browse/IFASAU-5211\n\n*Genesis* \n- Updated one price document example\n- Applied new design theme to another price document\n\n- UI reviews\nhttps://home.www.uprr.com/jira/browse/MASPMG-3054\nhttps://home.www.uprr.com/jira/browse/MASPMG-3155\nhttps://home.www.uprr.com/jira/browse/MASPMG-4265\nhttps://home.www.uprr.com/jira/browse/MASPMG-3889",
+      "ts": "2021-04-05T16:27:21.358Z",
+      "alias": "Blake J Whittaker",
+      "u": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500",
+        "name": "Blake J Whittaker"
+      },
+      "_updatedAt": "2021-04-05T16:27:54.290Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-1023"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/IFASAU-5211"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3054"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3155"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4265"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3889"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-05T16:27:37.544Z",
+      "editedBy": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500"
+      },
+      "replies": [
+        "2dwZDEz4hSkMbhTgz"
+      ],
+      "tcount": 2,
+      "tlm": "2021-04-05T16:27:54.222Z"
+    },
+    {
+      "_id": "asCznAnPKyJDyEapF",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Week of March 29\n\n*Metrics Reporting System*\n• Went over Elements and other UX recommended tools with Metrics Reporting System devs & Cary\n• Met with Tim & Metrics Reporting System devs to further refine their UX problem and understand more about the interface\n\n*UX*\n• Team meeting",
+      "ts": "2021-04-05T12:33:23.333Z",
+      "alias": "Jordan Charles Biniamow",
+      "u": {
+        "_id": "EDWc68L9tpfwWGrko",
+        "username": "igen365",
+        "name": "Jordan Charles Biniamow"
+      },
+      "_updatedAt": "2021-04-05T12:33:23.372Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "rfvu5tthzBQjkHkaK",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of March 29 - April 02\n*Project: UP Vision*\n_Tickets_\n- [PLUXUI-2314](https://home.www.uprr.com/jira/browse/PLUXUI-2314) Maintenance Of Way (MOW) info in Vision\n- [PLUXUI-2120](https://home.www.uprr.com/jira/browse/PLUXUI-2120) Helping developer Shirisha with Shut down cars\n_Activities_\n- 4 Scrum meetings\n- 1 Streamline MDR/TMA notification processes meeting\n- 1 Curfews in the Vision world meeting\n- 1 MOW Curfews in Vision meeting\n- Compile Corridor Manager feedback in Dovetail about Summary View card order and send to Miller\n- Compile Corridor Manager feedback in Dovetail about Maintenance of Way (MOW) and send to Miller\n*UX4CX*\n- Scheduling Metalsa Spanish Interviews\n*Project: Side By Side*\n- Touch base with Matt Allen\n- 1 User Interview with Charles\n- Continues work on prototypes/mockups\n*Project: UP Elements*\n- UP Elements Survey Ready - still waiting on distribution list of contractor developers hopefully will get it next week.\n- [PLUXUI-1023](https://home.www.uprr.com/jira/browse/PLUXUI-1023) Provide feedback to on List - Material Design Implementation\n*UX*\n- Last Dovetail Tags/Global Things Meeting\n- Making all the changes to Dovetail Tags and Global Things from meeting\n- UX Team Meeting\n- UX Scroll Signifiers Collab Meeting\n- UX Collab Meeting\n*JET/IT*\n- Testing out Teams Light\n- Teams Light Demo/Feedback",
+      "ts": "2021-04-01T19:48:14.430Z",
+      "alias": "Melissa Wolowicz",
+      "u": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053",
+        "name": "Melissa Wolowicz"
+      },
+      "_updatedAt": "2021-04-01T19:48:14.462Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-2314)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-2120)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/PLUXUI-1023)"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "CPM5vvAckqfSps7J5",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-04-01T19:42:41.911Z",
+      "msg": "",
+      "file": {
+        "_id": "j4mzTMuK2DQFaiCjj",
+        "name": "UX Overview 2021.pptx",
+        "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "UX Overview 2021.pptx",
+          "title_link": "/file-upload/j4mzTMuK2DQFaiCjj/UX%20Overview%202021.pptx",
+          "title_link_download": true,
+          "type": "file"
+        }
+      ],
+      "tmid": "xJYFPji5hAAgbbszo",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-04-01T19:42:41.943Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "xJYFPji5hAAgbbszo",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Week of 3/22\nUX Presentation to Rahul\nCrew interviews and tie up walkthrough\nReviewed engine inspection with William",
+      "ts": "2021-04-01T19:41:13.107Z",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-04-01T19:42:41.972Z",
+      "mentions": [],
+      "channels": [],
+      "replies": [
+        "3DHcbBWo3v5AZzDZS"
+      ],
+      "tcount": 1,
+      "tlm": "2021-04-01T19:42:41.911Z"
+    },
+    {
+      "_id": "3uwSxnuqszhejR8ii",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 3/29\n*Mobile Tie UP*\n- Continued participating in morning stand-ups\n- Refactored more of the front-end code\n- Demo of current app w/Timekeeping\n- Several discussions about progress and concerns of current state of the app\n- Usability study with light duty conductor w/Megan\n- [Opened ticket CMSDEV-6835 Claims: Title uppercase](https://home.www.uprr.com/jira/browse/CMSDEV-6835)\n\n*Mobile Terminal*\n- Met with Ryan Horn 3x to get up to speed on current state of the app\n\n*Terminal Planner*\n- Had meeting to allow bowl configuration for multiple leads \n\n*MyUPRR*\n- Advised on \n- Met w/Tami for walk through of LOA\n\n*UX*\n- Final Dovetail tags meeting\n- Discussed scrolling/content overflow signifiers for Zebras\n- UX Team meeting",
+      "ts": "2021-04-01T19:36:37.304Z",
+      "alias": "Christopher Ginn",
+      "u": {
+        "_id": "etkSTtiCzD2ZnBN8R",
+        "username": "xprl169",
+        "name": "Christopher Ginn"
+      },
+      "_updatedAt": "2021-04-01T19:37:17.102Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/CMSDEV-6835"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-01T19:37:17.100Z",
+      "editedBy": {
+        "_id": "etkSTtiCzD2ZnBN8R",
+        "username": "xprl169"
+      }
+    },
+    {
+      "_id": "TARg3hLnspL2pakxw",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "*Tie up*\n• UI proofing presentation\n• many, many meetings on UI proofing\n• correction notices / errors meetings\n*UX*\n• Dovetail tag meeting\n• team meeting\n*Terminal Planner*\n• sprint planning\n• meeting to allow bowl configuration for multiple leads\n*Bowl Planner*\n• daily education meetings\n*UP*\n• IDP work\n*Mobile Terminal*\n• Chris ramp-up meetings\n• ACTIONS menu retrospective\n• Work list create - navigation meetings\n*DigiCrew*\n• recent history requirements/design review\n• working out how to get scrolling signifiers to be visible for Zebras\n• working on patterns around list/table headers and range selection",
+      "ts": "2021-04-01T19:25:02.948Z",
+      "alias": "Ryan M Horn",
+      "u": {
+        "_id": "M58xo2mpiavg5Y88n",
+        "username": "ctct025",
+        "name": "Ryan M Horn"
+      },
+      "_updatedAt": "2021-04-01T19:25:02.988Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "N4GBNvujTcizFJTp7",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of Mar 29\n*Remedy*\n_Tickets_\nRemedy forms - Shunt reviewed by stakeholders\nRevisions to QRG PDF for Remedy mobile \nRemedy last minute adjustments prior to launch (about half a dozen meetings)\nUpdates to project wiki to add details launch plan\n  > https://wiki.www.uprr.com/confluence/display/itappdev/Mobile+for+Remedy\n\n*UX4CX*\nCustomer interviews GM (1x) and Phillips 66 (2x)\nKickoff with Mississippi Lime\nDebrief with Celtic\nGM/P66 Dovetail analysis sessions post interview (3x)\n\n*UX / JET*\nDovetail tags collab\nRecognition and teambuilding meeting\nTeams demo meeting\n\n*D&I / ERGs / BRIDGES*\nInclusive Tech Committee Meeting",
+      "ts": "2021-04-01T18:23:22.491Z",
+      "alias": "Ash Banaszek",
+      "u": {
+        "_id": "846TKA8neYYxT6ARw",
+        "username": "igen678",
+        "name": "Ash Banaszek"
+      },
+      "_updatedAt": "2021-04-13T15:57:10.039Z",
+      "urls": [
+        {
+          "url": "https://wiki.www.uprr.com/confluence/display/itappdev/Mobile+for+Remedy"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-13T15:57:10.037Z",
+      "editedBy": {
+        "_id": "846TKA8neYYxT6ARw",
+        "username": "igen678"
+      }
+    },
+    {
+      "_id": "x4JiuBYjgNXjaGKdY",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 3/22 - 4/3\n*UX4CX*\n- Schedule more GM interviews (this may be it, I only have 1 hold out)\n- Assisted Melissa in scheduling Metalsa interviews\n- Delivered Debrief to Celtic\n- Updated debrief slides for FHR\n- Kicked off with MS Lime\n- GM interview session (Greg Coleman)\n- 2 Phillips 66 interview sessions (William Weeks, Anil Nath et all.)\n- Analysis of all this week's interviews\n- Discussed potential KPIs for the Digital Customer Experience team\n\n*Recognition and Teambuilding Team*\n- Ran bi-weekly meeting (first with Jordan in a while, we discussed the Leadership Cascade, Recognition Handbook, and Recruiting for the R+T team)\n\n*Administrative*\n- Got Microsoft Teams working on Laptop (remote connection)\n- Attended Teams demo session \n- One on one session with Terri\n\n*UX Team*\n- Attended Global Tags meeting",
+      "ts": "2021-04-01T18:03:44.211Z",
+      "alias": "Thomas I Bolster",
+      "u": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453",
+        "name": "Thomas I Bolster"
+      },
+      "_updatedAt": "2021-04-01T18:11:44.125Z",
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-04-01T18:11:44.120Z",
+      "editedBy": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453"
+      },
+      "urls": []
+    },
+    {
+      "_id": "M3RYNyyk2PewDTu9o",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Mar 22-26\nUX overview PowerPoint\nMultiple light duty crew discussions, Received completed questionnaires\nTie Up / Engine Inspection field testing planning\nProject intake with PTC Metrics team\nMultiple Tie Up mtgs to deal with UI issues",
+      "ts": "2021-03-29T22:10:15.591Z",
+      "alias": "Megan McRae-Hastings",
+      "u": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163",
+        "name": "Megan McRae-Hastings"
+      },
+      "_updatedAt": "2021-03-29T22:12:15.534Z",
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-03-29T22:12:15.531Z",
+      "editedBy": {
+        "_id": "3DHcbBWo3v5AZzDZS",
+        "username": "igen163"
+      },
+      "urls": []
+    },
+    {
+      "_id": "FCd2KuEvm6ssairuu",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Mar 22 – 26\nAssist with deployment of DigiCrew/Work Order to Great Lakes SU, trouble-shoot problem devices\nWRORMG-12803 – Acceptance testing: Setout to DL reason code\nWRORMG-11438 – Acceptance testing: Button to clear application state\nWRORMG-12669 – Acceptance testing: Jump here should be in a chip\nWRORMG-12516 – Fix stack order (side sheet vs snackbar)\nResearch trains still using MWO v19",
+      "ts": "2021-03-29T18:12:55.834Z",
+      "alias": "Gerald F Burke",
+      "u": {
+        "_id": "TNDkNTn3rRQqpFr6F",
+        "username": "igen087",
+        "name": "Gerald F Burke"
+      },
+      "_updatedAt": "2021-03-29T18:12:55.867Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "4kz62v2N56Mm2Dprq",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 3/22 (half day of vacation on 3/26)\n*General*\n- Operating 101 Lunch talk\n- D&I ERG docuseries\n- EAP year of resiliency and real talk with Mike Matya\n\n*UX*\n- UX Guild\n- Dovetail Discussion\n- UX Collaboration Meeting\n- UX Mobile Squad Meeting\n- UX Team Meeting\n- Developer onboarding and elements\n- Conducted general information interview with [Charles Bender Jr. - Light-duty Conductor](https://dovetailapp.com/projects/134ddd5b-4488-45e3-a503-c7e610237147/data/f42025e1-ec00-42a1-b9e4-133b1ebe7cad), cleaned up notes and entered them into Dovetail\n\n*Intermodal*\nIntermodal Vision\n- Cleaned up notes, entered and tagged information in Dovetail for [George Davis - General Directer Intermodal Operations](https://dovetailapp.com/projects/4e867881-4a75-4442-9dfa-c7b82ee8aaf1/data/e273b650-161e-4cbb-a3b2-0ce30a009b9c) interview\n- Conducted interview with [Zach Russel (AVP Asset Planning)](https://dovetailapp.com/projects/4e867881-4a75-4442-9dfa-c7b82ee8aaf1/data/986b1a4a-b07d-4643-8923-6f82443a3b4b)\n- Cleaned up notes, entered and tagged information in Dovetail \n\n*Radio Connect*\n- Cleaned up and entered all userinterviews from [Radio Connect research](https://dovetailapp.com/projects/00ca67da-581c-4f70-92bf-d190ff676e09/data/b/ec9b5b28-0122-4c4f-bda2-b10e71896e0e) into Dovetail\n\n*EASE*\n- Compiled and submitted information for All ERG monthly newsletter\n\n*Genesis *\nUI reviews\nhttps://home.www.uprr.com/jira/browse/MASPMG-4068\nhttps://home.www.uprr.com/jira/browse/MASPMG-3979\nhttps://home.www.uprr.com/jira/browse/MASPMG-3976",
+      "ts": "2021-03-29T16:24:42.277Z",
+      "alias": "Blake J Whittaker",
+      "u": {
+        "_id": "2dwZDEz4hSkMbhTgz",
+        "username": "igen500",
+        "name": "Blake J Whittaker"
+      },
+      "_updatedAt": "2021-03-29T16:24:42.312Z",
+      "urls": [
+        {
+          "url": "https://dovetailapp.com/projects/134ddd5b-4488-45e3-a503-c7e610237147/data/f42025e1-ec00-42a1-b9e4-133b1ebe7cad),"
+        },
+        {
+          "url": "https://dovetailapp.com/projects/4e867881-4a75-4442-9dfa-c7b82ee8aaf1/data/e273b650-161e-4cbb-a3b2-0ce30a009b9c)"
+        },
+        {
+          "url": "https://dovetailapp.com/projects/4e867881-4a75-4442-9dfa-c7b82ee8aaf1/data/986b1a4a-b07d-4643-8923-6f82443a3b4b)"
+        },
+        {
+          "url": "https://dovetailapp.com/projects/00ca67da-581c-4f70-92bf-d190ff676e09/data/b/ec9b5b28-0122-4c4f-bda2-b10e71896e0e)"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-4068"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3979"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MASPMG-3976"
+        }
+      ],
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "txBtDwHn7qF9E3gFz",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-03-29T15:15:14.113Z",
+      "msg": "",
+      "file": {
+        "_id": "to6RgzWcDArtbkuaK",
+        "name": "results-list---new-filters-032521.jpg",
+        "type": "image/jpeg"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "results-list---new-filters-032521.jpg",
+          "title_link": "/file-upload/to6RgzWcDArtbkuaK/results-list---new-filters-032521.jpg",
+          "title_link_download": true,
+          "image_dimensions": {
+            "width": 959,
+            "height": 1046
+          },
+          "image_preview": "/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgAB0DASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAgEEBgMH/8QAJRAAAgEEAQMEAwAAAAAAAAAAAQIDAAQREiEGMVEFEyJBI3GR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMCBP/EAB0RAAICAQUAAAAAAAAAAAAAAAABAgMEESFCQ5H/2gAMAwEAAhEDEQA/APYIuj4ppzBLJLHCDxg1YHQ/piKcXs39rY/As2IgT5qEjQoS0S1xvCx31rwsrrFyZlbPpW1tsiH1KcA896Vz0jazuGlvZpD5JrQXUa4XWNRzzUXChWGqgcfVVhRXFaRikjDnJ7tlz4guzfXijBKkinUGuRuE3kXb90rR09k6MKoALzT8ecgZo3eu417Yp3DKQu7DvUXA3cYPYUoD/9k=",
+          "image_url": "/file-upload/to6RgzWcDArtbkuaK/results-list---new-filters-032521.jpg",
+          "image_type": "image/jpeg",
+          "image_size": 232663,
+          "type": "file"
+        }
+      ],
+      "tmid": "qNiijbDrmeMtAyaxm",
+      "alias": "Christopher Ginn",
+      "u": {
+        "_id": "etkSTtiCzD2ZnBN8R",
+        "username": "xprl169",
+        "name": "Christopher Ginn"
+      },
+      "_updatedAt": "2021-03-29T15:15:14.143Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "qNiijbDrmeMtAyaxm",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of 3/22\n*Mobile Tie UP*\n- Continued participating in morning stand-ups\n- Refactored more of the front-end code\n- Demo of current app w/Ryan Horn\n- Several discussions about progress and concerns of current state of the app\n- Helped Ryan Horn prep for Tie Up discussion\n- [Opened ticket CMSDEV-6821 Shift timeline: Remove duplicate dates](https://home.www.uprr.com/jira/browse/CMSDEV-6821)\n- [Opened ticket CMSDEV-6827 Preview tie up: Incorrect tooltips](https://home.www.uprr.com/jira/browse/CMSDEV-6827)\n- [Opened ticket CMSDEV-6828 Text fields: Generic fields causing layout issues](https://home.www.uprr.com/jira/browse/CMSDEV-6828)\n\n*Mobile Terminal*\n- Met with Ryan Horn 2x to get up to speed on current state of the app\n- Started joining in morning stand-ups\n\n*MyUPRR*\n- [Updated mockup of LOA results list](https://home.www.uprr.com/jira/browse/MYUPLF-1933)\n\n*UX*\n- Participated in UX Mobile Squad meeting\n- UX Team meeting",
+      "ts": "2021-03-29T15:14:40.048Z",
+      "alias": "Christopher Ginn",
+      "u": {
+        "_id": "etkSTtiCzD2ZnBN8R",
+        "username": "xprl169",
+        "name": "Christopher Ginn"
+      },
+      "_updatedAt": "2021-03-29T15:16:44.066Z",
+      "urls": [
+        {
+          "url": "https://home.www.uprr.com/jira/browse/CMSDEV-6821"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/CMSDEV-6827"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/CMSDEV-6828"
+        },
+        {
+          "url": "https://home.www.uprr.com/jira/browse/MYUPLF-1933"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "replies": [
+        "etkSTtiCzD2ZnBN8R"
+      ],
+      "tcount": 1,
+      "tlm": "2021-03-29T15:15:14.113Z",
+      "editedAt": "2021-03-29T15:16:44.053Z",
+      "editedBy": {
+        "_id": "etkSTtiCzD2ZnBN8R",
+        "username": "xprl169"
+      }
+    },
+    {
+      "_id": "5sE7KjSdRK8zA7jcS",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "Week of March 22\n\n*UX*\n• Attended UX Guild meeting - gave brief preview of Onboarding & documentation research\n\n*Onboarding & Documentation*\n• Gave presentation over findings to members of UX team\n\n*Metrics Reporting System*\n• Met with Tim Karstens and a group of his developers - discussing UX's potential role in the application\n• Scheduled follow-up meetings, addressing Elements teaching sessions for the developers and more in-depth views into the application",
+      "ts": "2021-03-29T12:30:55.631Z",
+      "alias": "Jordan Charles Biniamow",
+      "u": {
+        "_id": "EDWc68L9tpfwWGrko",
+        "username": "igen365",
+        "name": "Jordan Charles Biniamow"
+      },
+      "_updatedAt": "2021-03-29T12:31:07.733Z",
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-03-29T12:31:07.731Z",
+      "editedBy": {
+        "_id": "EDWc68L9tpfwWGrko",
+        "username": "igen365"
+      },
+      "urls": []
+    },
+    {
+      "_id": "gDhs8ZTnSTTtmzFE7",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-03-26T21:10:09.003Z",
+      "msg": "",
+      "file": {
+        "_id": "QP5Nypx86sFjyYJZr",
+        "name": "Celtic Debrief.pptx",
+        "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "Celtic Debrief.pptx",
+          "title_link": "/file-upload/QP5Nypx86sFjyYJZr/Celtic%20Debrief.pptx",
+          "title_link_download": true,
+          "type": "file",
+          "description": "Ready for Presentation on Monday"
+        }
+      ],
+      "alias": "Thomas I Bolster",
+      "u": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453",
+        "name": "Thomas I Bolster"
+      },
+      "_updatedAt": "2021-03-26T21:10:09.838Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "XniRtEaejoENzt34M",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "#### Week of March 22\n*UX4CX*\n- Facilitated getting the final cut of the Board Clip video out in time for Board Prep\nhttps://railflix.unionpacific.com/media/User+Experience+Customer+Deep+Dive+-+Quick+Look/1_xfaw31if\n- Scheduled several GM interviews\n- Scheduled all P66 interviews\n- Continued trying to schedule Metalsa interviews\n- Conducted and Analyzed 2 GM customers\n- Worked with ITCX team to create a process to prioritize projects in their JIRA board\n- Prioritized all projects in Voice of Customer JIRA board\n- Created Debrief presentation for Celtic\n- Created Debrief presentation for FHR\n- Discussed next steps on long term efforts for customer research with Megan.\n\n*Recognition and Teambuilding Team*\n- Analyzed and reported results from Leadership Cascade survey\n- Created outline of Recognition Handbook based on our prior research\n\n*Administrative*\n- Wellness Assessment\n- Attended UX staff meeting\n\n*Training*\n- Attended Jared Spool Webinar: The Undiscovered Value of Value Discovery Metrics\n\n*UX Guild*\nAttended March Guild meeting\n\n*UP Elements*\nHeard results of Jo's survey analysis\n\n*GI*\nSpoke with Jepson about state of the project and what we still need.",
+      "ts": "2021-03-26T21:05:20.035Z",
+      "alias": "Thomas I Bolster",
+      "u": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453",
+        "name": "Thomas I Bolster"
+      },
+      "_updatedAt": "2021-03-26T21:08:43.129Z",
+      "urls": [
+        {
+          "url": "https://railflix.unionpacific.com/media/User+Experience+Customer+Deep+Dive+-+Quick+Look/1_xfaw31if"
+        }
+      ],
+      "mentions": [],
+      "channels": [],
+      "editedAt": "2021-03-26T21:08:43.098Z",
+      "editedBy": {
+        "_id": "hxbzvCSNgRXnhG4ry",
+        "username": "igen453"
+      }
+    },
+    {
+      "_id": "QFvdQoscvrCfigto3",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "msg": "*UP*\n• IDP meeting\n*UX*\n• UX Guild meeting\n• Mobile Squad meeting\n*Mobile Terminal*\n• UX prioritization meeting\n• UI proofing for work list\n• Chris ramp-up meetings \n*Bowl Planner*\n• Mulitiple education meetings\n*Tie Up*\n• UI proofing for claims and more broadly\n• UI proofing discussions, notes, presentation work",
+      "ts": "2021-03-26T20:18:36.898Z",
+      "alias": "Ryan M Horn",
+      "u": {
+        "_id": "M58xo2mpiavg5Y88n",
+        "username": "ctct025",
+        "name": "Ryan M Horn"
+      },
+      "_updatedAt": "2021-03-26T20:18:36.931Z",
+      "mentions": [],
+      "channels": []
+    },
+    {
+      "_id": "q7eH8Xj9xdQPEzbxv",
+      "rid": "3ieNavHbSfeKxYtrK",
+      "ts": "2021-03-26T20:00:55.081Z",
+      "msg": "",
+      "file": {
+        "_id": "7FvMHXoDgWAqJAuh6",
+        "name": "UP Vision - PLUXUI-2120.png",
+        "type": "image/png"
+      },
+      "groupable": false,
+      "attachments": [
+        {
+          "ts": "1970-01-01T00:00:00.000Z",
+          "title": "UP Vision - PLUXUI-2120.png",
+          "title_link": "/file-upload/7FvMHXoDgWAqJAuh6/UP%20Vision%20-%20PLUXUI-2120.png",
+          "title_link_download": true,
+          "image_dimensions": {
+            "width": 3028,
+            "height": 2470
+          },
+          "image_preview": "/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAaACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAwECBAAI/8QAIBAAAgICAwADAQAAAAAAAAAAAQIAAxESEyExIkFRcf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABgRAQADAQAAAAAAAAAAAAAAAAABESES/9oADAMBAAIRAxEAPwD0fWjlmLWNg+RQhRlbkP8AIZpt2OHXEvRQ5ccjKcSdxadKnc2sxs+P5LkW8bMj46hsPmwz9yG317JxHelckrrVbGYse4ulYZcMSczSVH4JKqNvBMxZVxu5M67HGxHuILk8jd/cOwnRuz5NK04jX//Z",
+          "image_url": "/file-upload/7FvMHXoDgWAqJAuh6/UP%20Vision%20-%20PLUXUI-2120.png",
+          "image_type": "image/png",
+          "image_size": 796869,
+          "type": "file"
+        }
+      ],
+      "tmid": "2jpjjenFny7Lfajiu",
+      "alias": "Melissa Wolowicz",
+      "u": {
+        "_id": "KELfazn5mbooEjCuC",
+        "username": "igem053",
+        "name": "Melissa Wolowicz"
+      },
+      "_updatedAt": "2021-03-26T20:00:55.116Z",
+      "mentions": [],
+      "channels": []
+    }
+  ],
+  "count": 50,
+  "offset": 0,
+  "total": 525,
+  "success": true
+}
